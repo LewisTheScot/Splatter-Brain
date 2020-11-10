@@ -19,4 +19,4 @@ This app is for those who wish to break a distraction habit and build a study ha
 What the app does
 Using positive reinforcement to build a better study habits and temporarily muting notifications. The user is rewarded for completing time blocks disconnected from social media.
 
-<img src="/LewisTheScot/Splatter-Brain/blob/main/Splatter-Brain-artboard.png" alt="artboard of Mockup" style="max-width:100%;">
+<img src="https://github.com/LewisTheScot/Splatter-Brain/blob/main/Splatter-Brain-artboard.png" alt="artboard of Mockup" style="max-width:100%;">
